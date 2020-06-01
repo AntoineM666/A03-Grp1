@@ -1,0 +1,34 @@
+/* #figure1{
+
+} */
+#figure2{
+    /* modify that this party to modify the parallelogram */
+    position : relative;
+    top:-300px; 
+    left:151px;
+}
+    #figure2:after {
+        position : absolute;
+        top  : 0px;
+        right: -150px;
+}
+#figure3{
+
+    transform : translate(44px, -256px) rotate(45deg);
+}
+#figure4{
+
+    transform : translate(150px, -512px);
+}
+#figure5{
+
+    transform : translate(300px, -811.8px);
+}
+#figure6{
+
+    transform : translate(0px, -1112px);
+}
+#figure7{
+
+    transform : translate(0px, -1411.9px);
+}
